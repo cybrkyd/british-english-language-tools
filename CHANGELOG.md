@@ -1,7 +1,5 @@
 # Change Log
 
-**en-GB-words**
-
 2022-03-11
 * Version 2022-03-11
     * Additions and removals
