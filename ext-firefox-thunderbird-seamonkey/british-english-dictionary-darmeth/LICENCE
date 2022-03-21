@@ -1,8 +1,13 @@
+ext-firefox-thunderbird-seamonkey
 british-english-dictionary-darmeth
+en-GB.dic and en-GB.aff
+manifest.json
+icon.png
+
 A strict British-English spell checker dictionary for Firefox, Thunderbird and 
 SeaMonkey.
 
-Copyright (C) 2021  DaRmEtH
+Copyright (C) 2022 DaRmEtH
 
 This program is free software: you can redistribute it and/or modify it under 
 the terms of the GNU General Public License as published by the Free Software 
@@ -11,7 +16,7 @@ version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
-PARTICULAR PURPOSE. See the GNU General Public License for more details.
+PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with 
-this program. If not, see <https://www.gnu.org/licenses/>.
+this program.  If not, see <https://www.gnu.org/licenses/>.
