@@ -15,18 +15,18 @@ dictionary for Firefox, Thunderbird and SeaMonkey.<br>
 Make sure the relevant language pack is installed. As this is British-English, 
 you need the official Mozilla English (GB) Language Pack.
 
-###Firefox
+### Firefox
 https://addons.mozilla.org/en-GB/firefox/addon/english-gb-language-pack/
 
-###Thunderbird
+### Thunderbird
 https://addons.thunderbird.net/en-gb/thunderbird/addon/tb-langpack-en-gb/
 
 Once your language pack is installed, add the dictionary.
 
-###Firefox
+### Firefox
 https://addons.mozilla.org/en-GB/firefox/addon/british-english-dictionary-gb/<br>
 
-###Thunderbird
+### Thunderbird
 https://addons.thunderbird.net/en-gb/thunderbird/addon/british-english-dictionary-gb/
 
 Restart Firefox/Thunderbird (if required).
