@@ -1,27 +1,65 @@
+british-english-dictionary-darmeth
 
-# british-english-dictionary-darmeth
+Filename:       british-english-dictionary-darmeth
+Description:    A strict British-English spell checker dictionary for Firefox,
+                Thunderbird and SeaMonkey.
 
-Filename:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;british-english-dictionary-darmeth<br> 
-Description:&nbsp;&nbsp;&nbsp;&nbsp;A strict British-English spell checker 
-dictionary for Firefox, Thunderbird and SeaMonkey.<br>
+-------------
+Introduction
+-------------
+
+It is almost impossible to find a purely British-English dictionary or word 
+list. By default, Oxford and Cambridge include US/CAD/AUS English variants and 
+references in their published dictionaries and on their websites. Further, what 
+is often labelled as 'en-GB' is almost always, in fact, International English.
+
+This dictionary aims to include only those words conforming to the preferred 
+standard of British-English spelling.
+
+-----------------
+Editorial Policy
+-----------------
+
+The original base word list and dictionary contained over 150,000 entries, 
+compiled from various public domain sources. Entries that do not conform to the 
+preferred standard of British-English spelling are removed.
+
+The base word list and dictionary continues to be improved:
+
+    -- Missing entries are discovered and added;
+    -- Ongoing reviews flag undesirable words which are removed. An update is 
+       generally issued when several hundred entries have been added since the 
+       previous one.
 
 
-## Installing and usage
+The vocabulary sources include:
 
-Make sure the relevant language pack is installed. As this is British-English, 
-you need the official Mozilla English (GB) Language Pack.
+    -- Oxford Advanced Learner's Dictionary (8th Edition)
+    -- Cambridge Advanced Learners Dictionary (3rd Edition)
+    -- Collins English Dictionary (collinsdictionary.com)
+    -- Oxford Learner's Dictionaries (oxfordlearnersdictionaries.com)
+    -- Cambridge Dictionary (dictionary.cambridge.org)
 
-Firefox:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://addons.mozilla.org/en-GB/firefox/addon/english-gb-language-pack/<br>
-Thunderbird:&nbsp;&nbsp;https://addons.thunderbird.net/en-gb/thunderbird/addon/tb-langpack-en-gb/
+In addition to the above, various online sources and publications are regularly 
+sampled to keep the dictionary relevant and up-to-date.
 
-Once your language pack is installed, add the dictionary.
+----------------
+Inclusion Rules
+----------------
 
-Firefox:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://addons.mozilla.org/en-GB/firefox/addon/british-english-dictionary-gb/<br>
-Thunderbird:&nbsp;&nbsp;https://addons.thunderbird.net/en-gb/thunderbird/addon/british-english-dictionary-gb/
+This dictionary contains words conforming to the preferred standard of 
+British-English spelling.
 
-Restart Firefox/Thunderbird (if required).
+	-- "-ise" is preferred over "-ize", "-sation" over "-zation", etc.
+	-- US-English spelling is not allowed (e.g. "color", "odor", etc.)
+	-- Some (few) universally-recognised words are allowed and included:
+	   Words like "movie", "bike", "soccer", "vacation", et al.
+	-- Common proper names are included; not just common British / English 
+	   names but also common names from around the world.
 
+---------
+Licences
+---------
 
-## Licences
-british-english-dictionary-darmeth is available under a [GPL3 
-licence](https://github.com/darmeth/en-GB-dictionary/blob/main/LICENCE)
+british-english-dictionary-darmeth is available under a GPL3 licence.
+
