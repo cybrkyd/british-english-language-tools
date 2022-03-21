@@ -45,7 +45,13 @@ British-English spelling.
 also common names from around the world.
 * A limited number of hyphenated words are present but only where the 
 individual words are not already included.
-* English borrows some words from French and other languages and therefore inherits the associated diacritical marks. A limited number of the such words with diacritics are included, for example, **blasé**, **café**, **cliché**, **coup d'état**, **déjà vu**, **crème brûlée**, **crème fraiche**. However, the flattened (i.e. non-diacritical form) should also be included; for example, **blase**, **cafe**, **cliche**, **coup d'etat**, **deja vu**, **creme brulee**, **creme fraiche**
+* English borrows some words from French and other languages and therefore 
+inherits the associated diacritical marks. A limited number of the such words 
+with diacritics are included, for example, **blasé**, **café**, **cliché**, 
+**coup d'état**, **déjà vu**, **crème brûlée**, **crème fraiche**. However, the 
+flattened (i.e. non-diacritical form) should also be included; for example, 
+**blase**, **cafe**, **cliche**, **coup d'etat**, **deja vu**, **creme 
+brulee**, **creme fraiche**.
 
 
 ## Licences
