@@ -21,9 +21,9 @@ you need the official Mozilla English (GB) Language Pack.
 
 2. Once your language pack is installed, add the dictionary.
 * <strong>Firefox</strong>
-https://addons.mozilla.org/en-GB/firefox/addon/british-english-dictionary-gb/<br>
+    * https://addons.mozilla.org/en-GB/firefox/addon/british-english-dictionary-gb/<br>
 * <strong>Thunderbird</strong>
-https://addons.thunderbird.net/en-gb/thunderbird/addon/british-english-dictionary-gb/
+    * https://addons.thunderbird.net/en-gb/thunderbird/addon/british-english-dictionary-gb/
 
 Restart Firefox/Thunderbird (if required).
 
