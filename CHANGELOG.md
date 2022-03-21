@@ -4,6 +4,8 @@
 * Version 2022-03-21
     * Merged CHANGELOG files
     * Updates to LICENCE files to include broader descriptions
+    * Updates to CONTRIBUTING
+    * Updates to README
     * Additions and removals
 	* Removal of some uncommon -er and -ers words
 
