@@ -19,7 +19,7 @@ British-English spelling are removed.
 The list continues to be improved:
 * Missing entries are discovered and added;
 * Ongoing reviews flag undesirable words which are removed.
-An update is generally issued when several hundred entries have been added 
+* An update is generally issued when several hundred entries have been added 
 since the previous one.
 
 The vocabulary sources include:
@@ -30,7 +30,7 @@ The vocabulary sources include:
 * Cambridge Dictionary (dictionary.cambridge.org)
 
 In addition to the above, various online sources and publications are regularly 
-sampled to keep the list relevant and up-to-date.
+sampled to keep the word list relevant and up-to-date.
 
 
 ### Inclusion Rules
@@ -45,8 +45,10 @@ British-English spelling.
 also common names from around the world.
 * A limited number of hyphenated words are present but only where the 
 individual words are not already included.
+* English borrows some words from French and other languages and therefore inherits the associated diacritical marks. A limited number of the such words with diacritics are included, for example, **blasé**, **café**, **cliché**, **coup d'état**, **déjà vu**, **crème brûlée**, **crème fraiche**. However, the flattened (i.e. non-diacritical form) should also be included; for example, **blase**, **cafe**, **cliche**, **coup d'etat**, **deja vu**, **creme brulee**, **creme fraiche**
 
 
 ## Licences
 British-English Language Tools are available under a [GPL3
 licence](https://github.com/darmeth/british-english-words/blob/main/LICENCE)
+
