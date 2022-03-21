@@ -1,5 +1,16 @@
 # Change Log
 
+2022-03-21
+* Version 2022-03-21
+    * Merged CHANGELOG files
+    * Updates to LICENCE files to include broader descriptions
+    * Additions and removals
+	* Removal of some uncommon -er and -ers words
+
+2022-03-20
+* Version 2022-03-20
+    * Combination of github repositories into "british-english-language-tools"
+
 2022-03-11
 * Version 2022-03-11
     * Additions and removals
@@ -22,6 +33,13 @@
 2022-02-09
 * Version 2022.02.09
 	* Additions and removals
+
+2022-02-03
+* Version 2022.02.02 **(en-GB-dictionary)**
+	* Additions and removals
+	* Additions to common possessives
+	* New versioning format:
+        * Versioning will now be the date of releases
 
 2022-02-02
 * Version 2022.02.02
@@ -97,6 +115,13 @@
     * Additions to C, G, M
     * Removal of some non-GB words and word-forms
 
+2021-12-07
+* Version 0.9 **(en-GB-dictionary)**
+    * Additions to C, G, M
+    * Additions to common-use classical music terminology
+    * Added FTSE 100 and FTSE 250 companies (as of 21 October, 2021)
+    * Removal of some non-GB words and word-forms
+
 2021-12-03
 * Version 0.8.9
     * Additions to forms and plurals
@@ -169,6 +194,16 @@
         risqué, San José, São, soupçon, tête-à-tête, Tomé, Tórshavn, toupée, 
         Valparaíso, vis-à-vis, Yaoundé)
 
+2021-10-08
+* Version 0.5 **(en-GB-dictionary)**
+	* Convergence with en-GB-words
+	* Numerous additions to word-forms, proper nouns and plurals
+	* Added all London street names, suburbs, areas and boroughs
+	* Removed some en-US word-forms
+    * Removed duplicate proper noun where noun exists, e.g. Mills / mills, Road 
+    / road
+	* Additions to V, W
+
 2021-10-04
 * Version 0.5
     * Numerous additions to word-forms, proper nouns and plurals
@@ -178,28 +213,40 @@
     mills, Road / road
     * Additions to V, W
 
-2021-09-26
+2021-09-30
+* Version 0.4 **(en-GB-dictionary)**
+	* Added more derivatives, plurals, pronouns
 
+* Version 0.3 **(en-GB-dictionary)**
+    * Some additions
+    * affix file compression
+
+2021-09-29
+* Version 0.2 **(en-GB-dictionary)**
+    * Additions
+
+2021-09-28
+* Version 0.1 **(en-GB-dictionary)**
+    * Initial commit
+
+2021-09-26
 * Version 0.4
     * Restructure of repository folder
     * Renamed 'british-english-word-list' to 'en-GB-words'
     * Additions to Q, U
 
 2021-09-25
-
 * Version 0.3
     * Additions to A, X, Y, Z
     * Added more derivatives and plurals
     * Updated CONTRIBUTING.md
 
 2021-09-21
-
 * Version 0.2
     * Added CONTRIBUTING.md
     * Added some new words
     * Removed some word-forms
 
 2021-09-20
-
 * Version 0.1
     * Initial commit
