@@ -1,5 +1,10 @@
 # Change Log
 
+2022-03-22
+* Version 2022-03-22
+    * Additions and removals
+	* Removal of some uncommon -er and -ers words
+
 2022-03-21
 * Version 2022-03-21
     * Merged CHANGELOG files
@@ -35,7 +40,7 @@
 	* Additions and removals
 
 2022-02-03
-* Version 2022.02.02 **(en-GB-dictionary)**
+* Version 2022.02.03 **(en-GB-dictionary)**
 	* Additions and removals
 	* Additions to common possessives
 	* New versioning format:
