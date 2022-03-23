@@ -31,7 +31,6 @@ The base word list and dictionary continues to be improved:
        generally issued when several hundred entries have been added since the 
        previous one.
 
-
 The vocabulary sources include:
 
     -- Oxford Advanced Learner's Dictionary (8th Edition)
@@ -50,12 +49,19 @@ Inclusion Rules
 This dictionary contains words conforming to the preferred standard of 
 British-English spelling.
 
-	-- "-ise" is preferred over "-ize", "-sation" over "-zation", etc.
-	-- US-English spelling is not allowed (e.g. "color", "odor", etc.)
-	-- Some (few) universally-recognised words are allowed and included:
-	   Words like "movie", "bike", "soccer", "vacation", et al.
-	-- Common proper names are included; not just common British / English 
-	   names but also common names from around the world.
+    -- "-ise" is preferred over "-ize", "-sation" over "-zation", etc.
+    -- US-English spelling is not allowed (e.g. "color", "odor", etc.)
+    -- Some (few) universally-recognised words are allowed and included:
+       Words like "movie", "bike", "soccer", "vacation", et al.
+    -- Common proper names are included; not just common British / English 
+       names but also common names from around the world.
+    -- English borrows some words from French and other languages and therefore 
+       inherits the associated diacritical marks. A limited number of the such 
+       words with diacritics are included, for example, "blasé", "café", 
+       "cliché", "coup d'état", "déjà vu", "crème brûlée", "crème fraiche". 
+       However, the flattened (i.e. non-diacritical form) should also be 
+       included; for example, "blase", "cafe", "cliche", "coup d'etat", 
+       "deja vu", "creme brulee", "creme fraiche".
 
 ---------
 Licences
