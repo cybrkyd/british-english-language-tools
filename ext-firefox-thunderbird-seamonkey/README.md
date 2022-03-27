@@ -30,4 +30,4 @@ Restart Firefox/Thunderbird (if required).
 
 ## Licences
 british-english-dictionary-darmeth is available under a [GPL3 
-licence](https://github.com/darmeth/british-english-language-tools/blob/main/ext-firefox-thunderbird-seamonkey/LICENCE)
+licence](https://github.com/darmeth/british-english-language-tools/blob/main/ext-firefox-thunderbird-seamonkey/LICENSE)

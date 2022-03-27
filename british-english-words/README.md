@@ -14,5 +14,5 @@ dictionaries in this repository:
 
 ## Licences
 en-GB-words is available under a [GPL3
-licence](https://github.com/darmeth/british-english-language-tools/blob/main/british-english-words/LICENCE)
+licence](https://github.com/darmeth/british-english-language-tools/blob/main/british-english-words/LICENSE)
 
