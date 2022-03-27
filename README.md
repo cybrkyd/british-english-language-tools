@@ -56,5 +56,5 @@ brulee**, **creme fraiche**.
 
 ## Licences
 British-English Language Tools are available under a [GPL3
-licence](https://github.com/darmeth/british-english-language-tools/blob/main/LICENSE)
+license](https://github.com/darmeth/british-english-language-tools/blob/main/LICENSE)
 

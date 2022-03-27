@@ -28,5 +28,5 @@ You need sudo for this:
 
 ## Licences
 en-GB-dictionary is available under a [GPL3 
-licence](https://github.com/darmeth/british-english-language-tools/blob/main/en-GB-dictionary/LICENSE)
+license](https://github.com/darmeth/british-english-language-tools/blob/main/en-GB-dictionary/LICENSE)
 

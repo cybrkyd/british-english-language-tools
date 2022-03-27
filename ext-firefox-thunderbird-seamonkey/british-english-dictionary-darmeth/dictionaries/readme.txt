@@ -67,5 +67,5 @@ British-English spelling.
 Licences
 ---------
 
-british-english-dictionary-darmeth is available under a GPL3 licence.
+british-english-dictionary-darmeth is available under a GPL3 license.
 
