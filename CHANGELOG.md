@@ -1,5 +1,11 @@
 # Change Log
 
+2022-03-28
+* Version 2022-03-28
+	* Additions to possessive nouns
+	* Removal of some non-GB words and word-forms
+	* Renamed all "LICENCE" files to "LICENSE"
+
 2022-03-22
 * Version 2022-03-22
     * Additions and removals
