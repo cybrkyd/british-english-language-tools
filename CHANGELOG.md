@@ -1,5 +1,10 @@
 # Change Log
 
+2022-06-16
+* Version 2022-04-15
+    * Additions and removals
+    * Additions to possessive nouns
+
 2022-04-15
 * Version 2022-04-15
     * Additions and removals
