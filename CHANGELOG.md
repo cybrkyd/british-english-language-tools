@@ -1,5 +1,9 @@
 # Change Log
 
+2022-09-06
+* Version 2022-09-06
+    * Additions and removals
+
 2022-07-27
 * Version 2022-07-27
     * Additions and removals
