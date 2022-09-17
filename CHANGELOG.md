@@ -1,5 +1,14 @@
 # Change Log
 
+2022-09-17
+* Version 2022-09-17
+    * Version 2.0 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+    * Added support for NOSUGGEST with Merge pull request #2 from whawker/main
+    * Retirement of ordinal numbers compound rule from affix file
+    * Additions and removals
+    * Additions to possessive nouns
+
 2022-09-06
 * Version 2022-09-06
     * Additions and removals
@@ -35,14 +44,14 @@
 
 2022-03-28
 * Version 2022-03-28
-	* Additions to possessive nouns
-	* Removal of some non-GB words and word-forms
-	* Renamed all "LICENCE" files to "LICENSE"
+    * Additions to possessive nouns
+    * Removal of some non-GB words and word-forms
+    * Renamed all "LICENCE" files to "LICENSE"
 
 2022-03-22
 * Version 2022-03-22
     * Additions and removals
-	* Removal of some uncommon -er and -ers words
+    * Removal of some uncommon -er and -ers words
 
 2022-03-21
 * Version 2022-03-21
@@ -58,65 +67,65 @@
 2022-03-11
 * Version 2022-03-11
     * Additions and removals
-	* Removal of some uncommon -er and -ers words
+    * Removal of some uncommon -er and -ers words
 
 2022-03-05
 * Version 2022-03-05
-	* Reduction of proper nouns from 54,000 to 14,000
-	* Further additions and removals
+    * Reduction of proper nouns from 54,000 to 14,000
+    * Further additions and removals
 
 2022-02-18
 * Version 2022.02.18
-	* Additions to possessive nouns
-	* Removal of some non-GB words and word-forms
+    * Additions to possessive nouns
+    * Removal of some non-GB words and word-forms
 
 2022-02-13
 * Version 2022.02.13
-	* Additions and removals
+    * Additions and removals
 
 2022-02-09
 * Version 2022.02.09
-	* Additions and removals
+    * Additions and removals
 
 2022-02-03
 * Version 2022.02.03 **(en-GB-dictionary)**
-	* Additions and removals
-	* Additions to common possessives
-	* New versioning format:
+    * Additions and removals
+    * Additions to common possessives
+    * New versioning format:
         * Versioning will now be the date of releases
 
 2022-02-02
 * Version 2022.02.02
-	* Additions and removals
-	* Additions to common possessives
-	* New versioning format:
+    * Additions and removals
+    * Additions to common possessives
+    * New versioning format:
         * Versioning will now be the date of releases
 
 2022-01-30
 * Version 1.0
-	* Additions to D, P, S
-	* Removal of some non-GB words and word-forms
-	* Proper Nouns:
+    * Additions to D, P, S
+    * Removal of some non-GB words and word-forms
+    * Proper Nouns:
         * Removal of excessive US cities, towns and places
         * Removal of excessive -ise, -ism and -nian forms
         * Removal of most possessives
 
 2022-01-28
 * Version 0.9.9
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
     * Added some popular UK consumer brands
 
 2022-01-26
 * Version 0.9.8
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
     * Added some popular UK consumer brands
     * Added UK actors, actresses & writers
 
 2022-01-23
 * Version 0.9.7
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
     * Added some popular UK consumer brands
 
@@ -126,32 +135,32 @@
         * Renamed repository: british-english >> british-english-words
         * Renamed folder: british-english-word-list >> british-english-words
         * Updates to internal repository links
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
 
 2022-01-14
 * Version 0.9.5
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
 
 2022-01-10
 * Version 0.9.4
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
 
 2021-12-24
 * Version 0.9.3
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
 
 2021-12-19
 * Version 0.9.2
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
 
 2021-12-12
 * Version 0.9.1
-	* Additions to forms and plurals
+    * Additions to forms and plurals
     * Removal of some non-GB words and word-forms
 
 2021-12-07
@@ -240,13 +249,13 @@
 
 2021-10-08
 * Version 0.5 **(en-GB-dictionary)**
-	* Convergence with en-GB-words
-	* Numerous additions to word-forms, proper nouns and plurals
-	* Added all London street names, suburbs, areas and boroughs
-	* Removed some en-US word-forms
+    * Convergence with en-GB-words
+    * Numerous additions to word-forms, proper nouns and plurals
+    * Added all London street names, suburbs, areas and boroughs
+    * Removed some en-US word-forms
     * Removed duplicate proper noun where noun exists, e.g. Mills / mills, Road 
     / road
-	* Additions to V, W
+    * Additions to V, W
 
 2021-10-04
 * Version 0.5
@@ -259,7 +268,7 @@
 
 2021-09-30
 * Version 0.4 **(en-GB-dictionary)**
-	* Added more derivatives, plurals, pronouns
+    * Added more derivatives, plurals, pronouns
 
 * Version 0.3 **(en-GB-dictionary)**
     * Some additions
