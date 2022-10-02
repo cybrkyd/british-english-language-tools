@@ -1,7 +1,12 @@
 ﻿SET UTF-8
-TRY esianrtolcdumgphbyf'vkwxzSjqBMAC1LTPEHRDN2GKW3F4IO6J5V7809YéUZ-XQèêóçáôñëíàâûöÉäüã
+TRY esianrtolcdumgphby'fvkwxMSzjqACBTRPLDWHGEKFNIJVOZéYU-QXè42êáóí3çôëöñ68ãà1â750üûÉä9
+
+ICONV 1
+ICONV ’ '
 
 NOSUGGEST !
+
+IGNORE 1234567890
 
 REP 27
 REP f ph

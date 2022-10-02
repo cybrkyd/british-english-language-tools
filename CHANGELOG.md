@@ -1,5 +1,19 @@
 # Change Log
 
+2022-10-02
+* Version 2022-10-02
+    * Version 3.0 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+	* Added rule to affix file: "IGNORE 1234567890" (ignore words containing 
+	numbers)
+	* Removed all UK postcodes from base word list (new ignore rule prevents 
+	flagging)
+	* Removed most words containing numbers from base word list (new ignore 
+	rule prevents flagging)
+    * Additions to possessive nouns
+    * Various additions and removals
+    * A-Z ordering of en_GB.dic
+
 2022-09-17
 * Version 2022-09-17
     * Version 2.0 for British English Dictionary (Darmeth) extension for 
