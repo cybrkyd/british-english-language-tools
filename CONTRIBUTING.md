@@ -24,8 +24,8 @@ for small changes, but bigger changes should look like this:
 
 ### GitHub not really your thing?
 
-Please get in touch via e-mail: *git-x AT darmeth DOT com*
+Please get in touch via e-mail: *vii AT cybrkyd DOT com*
 
 Thanks,
-DaRmEtH
+--cybrkyd--
 
