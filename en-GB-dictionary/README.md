@@ -12,7 +12,7 @@ standard of British-English spelling.
 
 * en\_GB.dic and en\_GB.aff are for Hunspell and derivatives
 * The word list which forms the basis of this dictionary is 
-[here](https://github.com/darmeth/british-english-language-tools/tree/main/british-english-words)
+[here](https://github.com/cybrkyd/british-english-language-tools/tree/main/british-english-words)
 
 
 ## Installation
@@ -28,5 +28,5 @@ You need sudo for this:
 
 ## Licences
 en-GB-dictionary is available under a [GPL3 
-license](https://github.com/darmeth/british-english-language-tools/blob/main/en-GB-dictionary/LICENSE)
+license](https://github.com/cybrkyd/british-english-language-tools/blob/main/en-GB-dictionary/LICENSE)
 
