@@ -19,7 +19,7 @@ you need the official Mozilla English (GB) Language Pack.
 * <strong>Thunderbird</strong>
     * https://addons.thunderbird.net/en-gb/thunderbird/addon/tb-langpack-en-gb/
 
-2. Once your language pack is installed, add the dictionary.
+2. Once the language pack is installed, add the dictionary.
 * <strong>Firefox</strong>
     * https://addons.mozilla.org/en-GB/firefox/addon/british-english-dictionary-gb/<br>
 * <strong>Thunderbird</strong>
@@ -30,4 +30,4 @@ Restart Firefox/Thunderbird (if required).
 
 ## Licences
 british-english-dictionary-darmeth is available under a [GPL3 
-license](https://github.com/darmeth/british-english-language-tools/blob/main/ext-firefox-thunderbird-seamonkey/LICENSE)
+license](https://github.com/cybrkyd/british-english-language-tools/blob/main/ext-firefox-thunderbird-seamonkey/LICENSE)
