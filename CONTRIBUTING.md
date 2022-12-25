@@ -6,17 +6,17 @@ language tools.
 
 If you spot a word that should not be there, please report a bug:
 
-* [Report an issue](https://github.com/darmeth/british-english-language-tools/issues)
+* [Report an issue](https://github.com/cybrkyd/british-english-language-tools/issues)
 
 ## Submitting changes
 
 Please send a 
-[GitHub Pull Request](https://github.com/darmeth/british-english-language-tools/pulls) 
-with a clear list of what you've done (read more about 
+[GitHub Pull Request](https://github.com/cybrkyd/british-english-language-tools/pulls) 
+with a clear list of changes or updates (read more about 
 [pull requests](http://help.github.com/pull-requests/)).
 
 Always write a clear log message for your commits. One-line messages are fine 
-for small changes, but bigger changes should look like this:
+for small changes, but bigger changes should look like this, or similar:
 
     $ git commit -m "A brief summary of the commit.
     > 
@@ -24,8 +24,9 @@ for small changes, but bigger changes should look like this:
 
 ### GitHub not really your thing?
 
-Please get in touch via e-mail: *vii AT cybrkyd DOT com*
+Please get in touch via e-mail: *vii [AT] cybrkyd [DOT] com*
 
 Thanks,
+
 --cybrkyd--
 
