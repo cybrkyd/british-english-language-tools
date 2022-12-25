@@ -49,12 +49,11 @@ individual words are not already included.
 inherits the associated diacritical marks. A limited number of the such words 
 with diacritics are included, for example, **blasé**, **café**, **cliché**, 
 **coup d'état**, **déjà vu**, **crème brûlée**, **crème fraiche**. However, the 
-flattened (i.e. non-diacritical form) should also be included; for example, 
-**blase**, **cafe**, **cliche**, **coup d'etat**, **deja vu**, **creme 
-brulee**, **creme fraiche**.
+non-diacritical form should also be included; for example, **blase**, **cafe**, 
+**cliche**, **coup d'etat**, **deja vu**, **creme brulee**, **creme fraiche**.
 
 
 ## Licences
-British-English Language Tools are available under a [GPL3
-license](https://github.com/darmeth/british-english-language-tools/blob/main/LICENSE)
+British-English Language Tools is made available under a [GPL3
+license](https://github.com/cybrkyd/british-english-language-tools/blob/main/LICENSE)
 
