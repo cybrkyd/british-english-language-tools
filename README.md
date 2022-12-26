@@ -13,8 +13,8 @@ is often labelled as 'en-GB' is almost always, in fact, International English.
 
 ## Word List Editorial Policy
 The original word list contained over 150,000 entries, compiled from various 
-public domain sources. Entries that do not conform to the preferred standard of 
-British-English spelling are removed.
+public domain sources. Entries that did not conform to the preferred standard of 
+British-English spelling were removed.
 
 The list continues to be improved:
 * Missing entries are discovered and added;
@@ -40,7 +40,7 @@ British-English spelling.
 * **-ise** is preferred over **-ize**, **-sation** over **-zation**, etc.
 * US-English spelling is not allowed (e.g. **color**, **odor**, etc.)
 * Some (few) universally-recognised words are allowed and included:
-    * Words like **movie**, **bike**, **soccer**, **vacation**, et al.
+    * Words such as **movie**, **bike**, **soccer**, **vacation**, et al.
 * Common proper names are included; not just common British / English names but 
 also common names from around the world.
 * A limited number of hyphenated words are present but only where the 
