@@ -1,6 +1,6 @@
 # Change Log
 
-2023-02-14
+2023-03-07
 * Version 2023-03-07
     * Version 3.0.6 for British English Dictionary (Darmeth) extension for 
     Firefox / Thunderbird / SeaMonkey
