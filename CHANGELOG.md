@@ -10,7 +10,7 @@
 	* Completed review and comparison of Oxford Advanced Learner's Dictionary (8th Edition)
 	* Removal of "dyke" from NOSUGGEST. Alternative spelling "dike" is present, therefore should be suggested. Despite alternative slang meaning, we opt to retain SUGGEST based on original definition.
 	* Removal of "nonce" from NOSUGGEST. Definition: a nonce word or expression is one that is invented for one particular occasion. Also: (British slang) a person who commits a crime involving sex, especially sex with a minor. Despite alternative slang meaning, we opt to retain SUGGEST based on original definition.
-	* Removal of "bint" from NOSUGGEST. Definition: (British slang) an offensive way of referring to a woman. Root is from Arabic, literally "daughter", "girl". 'bint' is patronymic, e.g. Fatima bint Mubarak Al Ketbi. Despite alternative slang meaning, we opt to retain SUGGEST based on its use in naming.
+	* Removal of "bint" from NOSUGGEST. Definition: (British slang) an offensive way of referring to a woman. Root is from Arabic, literally "daughter", "girl". The word 'bint' is patronymic, e.g. Fatima bint Mubarak Al Ketbi. Despite alternative slang meaning, we opt to retain SUGGEST based on its use in naming.
 
 2023-04-11
 * Version 2023-04-11
