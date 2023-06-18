@@ -1,5 +1,14 @@
 # Change Log
 
+2023-06-18
+* Version 2023-06-18
+    * Version 3.1.2 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+    * Additions to base word list: 1,717
+        * Additions of mostly "-ing's"
+    * Deletions from base word list: 651
+        * Deletions include removal of all UK postcode prefixes
+
 2023-06-15
 * Version 2023-06-15
     * Version 3.1.1 for British English Dictionary (Darmeth) extension for 
