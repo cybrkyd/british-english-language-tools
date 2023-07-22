@@ -2,7 +2,7 @@
   "dictionaries": {
     "en-GB": "dictionaries/en-GB.dic"
   },
-  "version": "3.1.2",
+  "version": "3.1.3",
   "browser_specific_settings": {
     "gecko": {
       "id": "{d187b435-812e-4813-a93e-edccc4118f9d}"

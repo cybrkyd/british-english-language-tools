@@ -1,5 +1,14 @@
 # Change Log
 
+2023-07-22
+* Version 2023-07-22
+    * Version 3.1.3 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+    * Additions to base word list: 2,132
+        * Additions include new words, possessives and proper nouns
+    * Deletions from base word list: 53
+    * NOSUGGEST flags for "gollywog", "goddammit", "goddamnit", "goddamn", "goddam"
+
 2023-06-18
 * Version 2023-06-18
     * Version 3.1.2 for British English Dictionary (Darmeth) extension for 
