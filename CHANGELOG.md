@@ -1,5 +1,15 @@
 # Change Log
 
+2023-08-06
+* Version 2023-08-06
+    * Version 4.0 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+    * Additions to base word list: 50,541
+        * Additions to proper nouns spraped from various news sources
+        * Additions include new words and possessives
+    * Deletions from base word list: 204
+    * Completed review and comparison of Oxford Advanced Learner's Dictionary (8th Edition)
+
 2023-07-22
 * Version 2023-07-22
     * Version 3.1.3 for British English Dictionary (Darmeth) extension for 
