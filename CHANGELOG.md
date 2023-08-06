@@ -8,7 +8,7 @@
         * Additions to proper nouns spraped from various news sources
         * Additions include new words and possessives
     * Deletions from base word list: 204
-    * Completed review and comparison of Oxford Advanced Learner's Dictionary (8th Edition)
+    * Completed review and comparison of Cambridge Advanced Learners Dictionary (3rd Edition)
 
 2023-07-22
 * Version 2023-07-22
