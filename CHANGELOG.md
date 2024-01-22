@@ -1,5 +1,12 @@
 # Change Log
 
+2024-01-22
+* Version 2024-01-22
+    * Version 4.3 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+    * Additions to base word list: 1,165
+    * Deletions from base word list: 30
+
 2023-12-11
 * Version 2023-12-11
     * Version 4.2 for British English Dictionary (Darmeth) extension for 
