@@ -1,7 +1,7 @@
 # Change Log
 
 2025-01-04
-    * Initial release of Version 1.0 for British English Dictionary (Darmeth) extension for 
+* Initial release of Version 1.0 for British English Dictionary (Darmeth) extension for 
     LibreOffice
 
 2024-12-24
