@@ -1,8 +1,7 @@
-british-english-dictionary-darmeth
+LibreOffice British English spell checker (Darmeth)
 
-Filename:       british-english-dictionary-darmeth
-Description:    A strict British-English spell checker dictionary for Firefox,
-                Thunderbird and SeaMonkey.
+Filename:       LO_british-english-dictionary-darmeth
+Description:    A strict British-English spell checker dictionary for LibreOffice.
 
 -------------
 Introduction
@@ -20,7 +19,7 @@ standard of British-English spelling.
 Editorial Policy
 -----------------
 
-The original base word list and dictionary contained over 150,000 entries, 
+The original base word list and dictionary contained over 150,000 entries,
 compiled from various public domain sources. Entries that do not conform to the 
 preferred standard of British-English spelling are removed.
 
@@ -67,5 +66,5 @@ British-English spelling.
 Licences
 ---------
 
-british-english-dictionary-darmeth is available under a GPL3 license.
+LibreOffice British English (Darmeth) is available under a GPL3 license.
 
