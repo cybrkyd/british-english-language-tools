@@ -1,5 +1,14 @@
 # Change Log
 
+2025-04-25
+* Version 2025-04-25
+    * Version 4.10 for British English Dictionary (Darmeth) extension for 
+    Firefox / Thunderbird / SeaMonkey
+    * Version 2.0 for British English Dictionary (Darmeth) extension for 
+    LibreOffice
+    * Additions to base word list: 506
+    * Deletions from base word list: 71
+
 2025-01-04
 * Initial release of Version 1.0 for British English Dictionary (Darmeth) extension for 
     LibreOffice
